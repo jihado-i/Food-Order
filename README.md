@@ -1,24 +1,39 @@
-# Restaurant Product Visual Showcase Project
-This project aims to visually showcase the products and varieties of dishes of a restaurant in an impressive manner. The goal of the project is to demonstrate frontend skills and creativity.
+🍽️ Restaurant Product Visual Showcase Project
+This project aims to visually showcase the products and varieties of dishes of a restaurant in an impressive and modern manner.
+The goal is to demonstrate frontend development skills and creativity through appealing visuals and interactions.
 
-## Technologies Used
-- HTML 
-- CSS
-- JavaScript 
-- Google Fonts
-- FontAwesome icons
+🛠️ Technologies Used
+HTML
 
+CSS
 
+JavaScript
 
-## Resources Used
-- Freepik.com & pexels.com: Sources used for images.
+Google Fonts
 
-## Objective
-The project focuses particularly on visual effects, animations, and details that enhance user experience. The aim is to create an interface that captivates users and presents the restaurant's products attractively.
+FontAwesome Icons
 
-## Project Details
-To review the project and view the code, you can access the following links:
-[Project Link]([https://lambent-tulumba-afbeec.netlify.app/](https://jihado-i.github.io/Food-Order/))
+📸 Resources Used
+Freepik.com – for illustrations and graphics
 
-## Feedback and Thoughts
-I eagerly await your feedback and thoughts on the project. Thank you!
+Pexels.com – for high-quality stock images
+
+🎯 Objective
+This project focuses particularly on:
+
+Visual effects and transitions
+
+Smooth animations
+
+Design details that enhance user experience
+
+Presenting the restaurant's products in a captivating and modern layout
+
+🔗 Project Details
+You can view the live version of the project here:
+👉 Project Link
+
+💬 Feedback and Thoughts
+I eagerly welcome your feedback and suggestions to improve the project further.
+Thank you for taking the time to explore it!
+
