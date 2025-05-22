@@ -5,6 +5,9 @@ The goal is to demonstrate **frontend development skills** and creativity throug
 
 ---
 
+![image](https://github.com/user-attachments/assets/56989036-e009-4e38-8677-1e2831fd8e03)
+
+
 ## 🛠️ Technologies Used
 - HTML  
 - CSS  
