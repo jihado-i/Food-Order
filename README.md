@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Product Visual Showcase Project
+gs# 🍽️ Restaurant Product Visual Showcase Project
 
 This project aims to visually showcase the **products and varieties of dishes** of a restaurant in an impressive and modern manner.  
 The goal is to demonstrate **frontend development skills** and creativity through appealing visuals and interactions.
